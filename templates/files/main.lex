@@ -1,0 +1,13 @@
+{fileheader}
+
+
+
+%%
+
+
+
+%%
+
+int main() {
+	yylex();
+}
