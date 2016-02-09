@@ -5,6 +5,6 @@ Copy this repository files to your Geany configuration folder "/usr/share/geany"
 
 You may need to select lex type on the document menu under the "Misc" type.
 
-[Troubleshooting]
-If you followed the steps and nothing happpened you minght have those configs overwriteen on ~/.config/geany
-Do the same thing you have done before, but with the ~/config/geany folder. 
+# Troubleshooting
+
+You might need to set the build commands manually, but they are described on the botton of the filetypes.lex.conf file. So copy and paste everything where it should be. Compare it to others languages if you not sure, I'm still looking foward to fix this.
